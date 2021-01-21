@@ -1,0 +1,22 @@
+{
+  "name": "learndean",
+  "version": "1.0.0",
+  "description": "Dean teaching javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hallmans/learnDean.git"
+  },
+  "author": "Dean Hallman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hallmans/learnDean/issues"
+  },
+  "homepage": "https://github.com/hallmans/learnDean#readme",
+  "dependencies": {
+    "cowsay": "^1.4.0"
+  }
+}
